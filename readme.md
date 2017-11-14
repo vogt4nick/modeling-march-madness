@@ -1,15 +1,13 @@
 # Modeling March Madness in Python
-### A four-part series by Nick Vogt
-###### Repo is updated through _Workshop 3: Model Selection_. The next workshop will be posted in early April.
+### A three-part series
 
 Join me and [MSU Data Science](http://msudatascience.com/) in modeling march madness entirely in Python!
 
-Learn how to scrape web pages to build your dataset and model the tournament in 4 parts:
+Learn how to scrape web pages to build your dataset and model the tournament in 3 parts:
 
 1. Web Scraping  
 2. Data Mining and Feature Engineering  
 3. Choosing a Model  
-4. Model Evaluation   
 
 At the end of this project, you will have a fully function model of the NCAA Basketball Tournament. Tweak it to your own needs and desires to beat up on your friends and co-workers in a tourney pool. 
 
